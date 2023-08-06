@@ -141,6 +141,12 @@ ul li a {
     transform: scale(1.2);
 }
 
+.img-cont:hover ~ #cont-barbie {
+    transform: scale(0.8);
+}
+
+
+
 #text-hatchimals {
     background-color: #98FB98;
     border: 1px dotted black;
